@@ -1,0 +1,12 @@
+[submodule "lib/raptordsp"]
+	path = lib/raptordsp
+	url = https://github.com/Roman-Port/RaptorDSP.git
+[submodule "lib/libresample-cmake"]
+	path = lib/libresample-cmake
+	url = https://github.com/Roman-Port/libresample-cmake
+[submodule "lib/raptorrds"]
+	path = lib/raptorrds
+	url = https://github.com/Roman-Port/RaptorRDS
+[submodule "lib/picodes"]
+	path = lib/picodes
+	url = https://github.com/Roman-Port/LibPiCodes
